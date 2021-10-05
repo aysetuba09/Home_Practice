@@ -1,3 +1,5 @@
 make page.txt for git
 
 Finally, I am learning local and remote repository
+
+Now let's see how we can add updated text
